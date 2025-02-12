@@ -4,7 +4,7 @@
 ![Modloader](https://img.shields.io/badge/Modloader-Fabric-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
-A builder-focused modpack that enhances your Minecraft experience & builds while maintaining vanilla feel and adding(optionally) quality-of-life(QoL) improvements.
+A builder-focused modpack that enhances your Minecraft experience & builds while maintaining vanilla feel and adding quality-of-life(QoL) improvements.
 
 ## Features
 
