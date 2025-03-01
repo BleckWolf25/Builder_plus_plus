@@ -45,7 +45,7 @@ Wiki will be available soon!
 
 - [Modrinth Page](https://modrinth.com/modpack/builder++)
 - [Discord Support](https://discord.com/invite/evhMuYeSYJ)
-- [Bug Reports](https://github.com/JotaRYT/builder_plus_plus/issues)
+- [Bug Reports](https://github.com/BleckWolf25/builder_plus_plus/issues)
 
 ## Contributing
 
